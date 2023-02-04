@@ -13,3 +13,6 @@ Linkedin: https://www.linkedin.com/in/f%C3%A1bio-bronze/
 <h1/>Layout</h1>
 <img src="https://user-images.githubusercontent.com/116193280/216739494-06ebf75d-0664-476c-aac6-d8911d36d0de.PNG" />
 <br/><br/>
+<img src="https://user-images.githubusercontent.com/116193280/216739520-63a4382f-7b39-4b0a-a90c-7fddeef2a236.PNG" />
+<br/><br/>
+
